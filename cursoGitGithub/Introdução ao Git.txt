@@ -1,0 +1,23 @@
+GIT COMANDOS
+
+Windowns
+
+DIR - Lista Pasta
+CD - Navega entre as pastas
+CD .. Sai da pasta atual
+CLS - Limpa Tela
+CTRL + L - Limpa tela
+MKDIR - Cria uma Pasta
+ECHO HELLO > arq.txt - Cria um aquivo
+DEL - apaga o conteúdo de uma pasta
+RMDIR - apaga a pasta do diretório
+
+Linux
+
+LS - Lista pasta
+CD - Navega entre as pastas
+CD .. Sai da pasta atual
+CLEAR - Limpa a tela
+CTRL + L - Limpa tela
+RM -RF - Apaga Pasta
+LS - A  - Mostra Arquivos ocultos
